@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# --- MIS REGLAS PERSONALIZADAS ---
+
+# Ignorar carpeta de reportes (Seguridad y Privacidad)
+reports/
+
+# Ignorar la carpeta de configuración de VS Code (opcional, pero recomendado)
+.vscode/
